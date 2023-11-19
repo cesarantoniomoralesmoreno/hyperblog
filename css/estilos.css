@@ -37,3 +37,12 @@ body{
     font: size 0.8em;
     
 }
+
+#footer{
+    padding: 1em;
+    background-color: rgb(118, 119, 131);
+    text-align: center;
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+}
